@@ -73,7 +73,7 @@ The pytorch implement model come from [here](https://github.com/cydonia999/VGGFa
 In the paper, author propose the confidence scores as map computing:
 
 $$
-d(h_{y^{*}}(x),h_{y^{c}}(x))
+d(h_{y^{*}}(x),h_{y^{c}}(x))=a(h_{y^{*}}(x)) \cdot \bar{a}(h_{y^{c}}(x)) \cdot a(s(x))
 $$
 
 The author suggest using function (13) as confidence scores:
