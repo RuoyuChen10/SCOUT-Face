@@ -76,6 +76,10 @@ $$
 d(h_{y^{*}}(x),h_{y^{c}}(x))=a(h_{y^{*}}(x)) \cdot \bar{a}(h_{y^{c}}(x)) \cdot a(s(x))
 $$
 
+$$
+a \cdot b
+$$
+
 The author suggest using function (13) as confidence scores:
 
 $$s^{e}(x)=1-s^{hp}(x)$$
